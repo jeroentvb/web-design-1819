@@ -1,53 +1,7 @@
-# Web Design @cmda-minor-web 1819
-//Werken met en voor echte mensen.
+# Web Design
+Animated closed captions.
 
-
-
-In het vak Web design gaan we dingen ontwerpen voor echte mensen. Is er goede interactie? Kan je 'mens' je product op een prettige manier bedienen? Wat voor principes heb je gebruikt en getest? En zit er wel _nonsense_ in?
-
-
-
-
-
-## Leerdoelen
-- _Leren hoe je principles in een ontwerp kan toepassen._
-- _User needs begrijpen en gebruiken in je ontwerp._
-- _Leren hoe je moet testen en de resultaten gebruiken voor het verbeteren van je ontwerp._
-
-
-
-
-### Week 1
-Inclusive design en ontwerpen voor 1 mens.
-- [College over Inclusive Design](https://drive.google.com/open?id=1wGhSJ0sYZw2f7PhiyI9d12aW4nfvkt47)
-- [Les 1 - Briefing opdracht 1](https://docs.google.com/presentation/d/1-DU6Nj_N-inT4CGFh_sHZN4RA0XEVkow1qSPF14Ltog/edit?usp=sharing)
-- [Opdracht 1 - Annames testen](Opdracht1.md)
-
-
-
-#### Weekly Nerd
-Daan Rongen gaat vertellen over onderzoek, ontwerp en ontwikkeling in het afstudeerjaar. En _learnings_ over exposeren (op de Dutch Design week). En over een designers houding, want ja mensen, web dev-ies zijn ook ontwepers.  Woensdag 10 April, 16:00 in het minorlokaal.
-
-#### Lezen
-- []()
-
-
-### Week 2
-
-
-
-#### Weekly Nerd
-
-
-#### Lezen
-- []()
-
-
-### Week 3
-
-
-
-#### Weekly Nerd
-
-#### Lezen
-- []()
+## User Scenario
+Marie is Doof met een hoofdletter. Dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is. Geschreven Nederlands is haar tweede taal, maar deze beheerst ze goed. Ook weet ze niet wat geluid is. Ze is ook een designer en denkt dus snel in oplossingen.  
+Als Marie een film kijkt gaat dat natuurlijk met closed captions aan. Echter gaat er veel nuance verloren in de closed captions. Als er buiten beeld een geluid afspeelt, bijvoorbeeld kloppen, heeft Marie geen idee of dat een hard of zacht geluid is. Het zou dus fijn zijn om die nuance op een of andere manier toch mee te kunnen krijgen.  
+Als Marie mijn prototype gebruikt krijgt ze dat wel mee doormiddel van geanimeerde closed captions op momenten dat nuance nodig is.

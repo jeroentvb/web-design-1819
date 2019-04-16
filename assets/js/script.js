@@ -26,6 +26,6 @@ function draw () {
   let level = amplitude.getLevel()
 
   if (document.querySelector('span.sound')) {
-    document.querySelector('span.sound').style.fontSize = `${level + 2}rem`
+    document.querySelector('span.sound').style.fontSize = `${Math.pow((level + 1.2), 2)}rem`
   }
 }

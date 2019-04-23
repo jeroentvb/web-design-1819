@@ -2,15 +2,15 @@ WEBVTT
 
 1
 00:00:03.000 --> 00:00:06.500 a:start
-<v mcqueen>Goed, daar gaat ie dan. Concentratie.
+<v mcqueen>Lightning Mcqueen: Goed, daar gaat ie dan. Concentratie.
 
 2
 00:00:07.100 --> 00:00:09.500
-Snelheid.. Ik ben snelheid.</v>
+<v mcqueen>Snelheid.. Ik ben snelheid.</v>
 
 3
 00:00:09.600 --> 00:00:11.500
-<c.sound>( Auto motors )</c>
+<c.motors><c.sound>Auto motors</c></c>
 
 4
 00:00:12.000 --> 00:00:14.500
@@ -18,11 +18,11 @@ Snelheid.. Ik ben snelheid.</v>
 
 5
 00:00:14.500 --> 00:00:16.700
-Verliezers lust ik rauw.</v>
+<v mcqueen>Verliezers lust ik rauw.</v>
 
 6
 00:00:16.700 --> 00:00:19.000
-<c.sound>( Auto motors )</c>
+<c.motors><c.sound>Auto motors</c></c>
 
 7
 00:00:19.500 --> 00:00:20.300
@@ -34,19 +34,19 @@ Waarom moest ik dat nu noemen?
 
 9
 00:00:22.600 --> 00:00:24.000
-Ik zou best wat lusten.
+<v mcqueen>Ik zou best wat lusten.
 
 10
 00:00:24.000 --> 00:00:25.000
-Nee, nee, nee, blijf in je concentratie.
+<v mcqueen>Nee, nee, nee, blijf in je concentratie.
 
 10
 00:00:25.600 --> 00:00:26.300
-Snelheid...</v>
+<v mcqueen>Snelheid...</v>
 
 11
 00:00:26.300 --> 00:00:28.100
-<c.sound>( Auto motors )</c>
+<c.motors><c.sound>Auto motors</c></c>
 
 12
 00:00:28.500 --> 00:00:29.500
@@ -54,16 +54,16 @@ Snelheid...</v>
 
 13
 00:00:29.500 --> 00:00:30.500
-Ik ben bliksemsnel.
+<v mcqueen>Ik ben bliksemsnel.
 
 14
 00:00:30.700 --> 00:00:32.000
-Ik ben lightning!</v>
+<v mcqueen>Ik ben lightning!</v>
 
 15
 00:00:32.000 --> 00:00:33.300
-<c.sound>( Kloppen op deur van trailer )</c>
+<c.knock><c.sound>Manager klopt op deur van trailer</c></c>
 
 16
 00:00:33.300 --> 00:00:35.000
-<v manager>Hey, Lightning! Ben je zo ver?</v></c>
+<v manager>Manager: Hey, Lightning! Ben je zo ver?</v></c>

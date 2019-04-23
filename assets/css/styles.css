@@ -1,3 +1,15 @@
+@font-face {
+  font-family: "Full Pack 2025";
+  src: url("../fonts/full-pack-2025.ttf");
+}
+@font-face {
+  font-family: "Fast SS";
+  src: url("../fonts/FastSS.ttf");
+}
+@font-face {
+  font-family: "ObelixPro";
+  src: url("../fonts/ObelixPro.ttf");
+}
 html {
   box-sizing: border-box;
 }
@@ -37,6 +49,7 @@ video:focus {
 
 .captions-display {
   background-color: rgba(0, 0, 0, 0.01);
+  width: 100%;
 }
 .captions-display div div {
   display: block !important;
@@ -46,6 +59,18 @@ video:focus {
 .captions-display div div div, .captions-display div div div span {
   font-size: 1.6rem;
   padding: 1rem;
+}
+.captions-display .motors {
+  font-family: "Fast SS", sans-serif;
+}
+.captions-display .knock {
+  font-family: "ObelixPro", sans-serif;
+}
+.captions-display span[title=mcqueen] {
+  color: red;
+}
+.captions-display span[title=manager] {
+  color: #ffbb00;
 }
 
 /*# sourceMappingURL=styles.css.map */

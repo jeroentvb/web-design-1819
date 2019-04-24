@@ -54,11 +54,13 @@ Ik heb weer twee vragen en een aantal subvragen bedacht.
 * Is het afleidend?
 * Is het leesbaar?
 
+Marie vond dat het lettertype wel wat toevoegde al kreeg ik sterk het idee dat dat vooral kwam doordat het 'nonsense' was. Het geluid wordt er niet per se duidelijker door omschreven. Het was wel nog leesbaar en leidde niet te veel af.
+
 #### Had je door dat er twee personages in het fragment zaten?
 * Waren de kleuren vervelend?
 * Denk je dat kleuren nog overzichtelijk zouden zijn bij een film van normale lengte zolang je niet voor elke kleine bijrol een aparte kleur gaat gebruiken?
 
-### Feedback
+De kleuren zorgden er goed voor dat het duidelijk was als er iemand anders praatte. De kleuren zelf waren echter niet altijd goed gekozen omdat ik te weinig rekening had gehouden met het contrast. Hierbij speelde de lichtinval en reflectie van het beeldscherm ook mee.
 
 ## To do
 Ik had graag nog willen testen of het trillen van een telefoon toegevoegde waarde heeft als er een de ondertiteling een geluid beschrijft.  

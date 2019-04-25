@@ -9,9 +9,14 @@ Enhanced closed captions for Deaf people.
 * [To do](#to-do)
 
 ## User Scenario
-Marie is Doof met een hoofdletter. Dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is. Geschreven Nederlands is haar tweede taal, maar deze beheerst ze goed. Ook weet ze niet wat geluid is. Ze is ook een designer en denkt daarom snel in oplossingen.  
+### V1
+> Marie is Doof met een hoofdletter. Dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is. Geschreven Nederlands is haar tweede taal, maar deze beheerst ze goed. Ook weet ze niet wat geluid is. Ze is ook een designer en denkt daarom snel in oplossingen.  
 Als Marie een film kijkt gaat dat natuurlijk met closed captions aan. Echter gaat er veel nuance verloren in de closed captions. Als er buiten beeld een geluid afspeelt, bijvoorbeeld kloppen, heeft Marie geen idee of dat een hard of zacht geluid is. Het zou dus fijn zijn om die nuance op een of andere manier toch mee te kunnen krijgen.  
 Als Marie mijn prototype gebruikt krijgt ze dat wel mee doormiddel van geanimeerde closed captions en een aangepast font op momenten dat nuance nodig is.
+
+### V2
+> Marie is Doof met een hoofdletter. Dat betekent dat ze zichzelf als Doof identificeert, wat simpelgezegd betekent dat haar eerste taal Nederlandse Gebarentaal is. Geschreven Nederlands is haar tweede taal, maar deze beheerst ze goed. Ook weet ze niet wat geluid is. Ze is ook een designer en denkt daarom snel in oplossingen.  
+Marie wil Cars 1 kijken en daarbij alle nuance meekrijgen. Ze wil ervaren wat voor soort geluid er wordt omschreven, vooral als dit niet te zien is. De manier waarop dit gebeurt moet passen bij de film. Ook wil ze graag weten we wanneer wat zegt als dat niet in beeld is. 
 
 ## Test 1
 ### Plan
